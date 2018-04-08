@@ -1,0 +1,13 @@
+c:\users\benim\Source\Repos\Youtube\Youtube\bin\Debug\Youtube.exe.config
+c:\users\benim\Source\Repos\Youtube\Youtube\bin\Debug\Youtube.exe
+c:\users\benim\Source\Repos\Youtube\Youtube\bin\Debug\Youtube.pdb
+c:\users\benim\Source\Repos\Youtube\Youtube\bin\Debug\libvideo.dll
+c:\users\benim\Source\Repos\Youtube\Youtube\bin\Debug\MediaToolkit.dll
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.csprojResolveAssemblyReference.cache
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.Form1.resources
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.csproj.GenerateResource.cache
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.csproj.CoreCompileInputs.cache
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.csproj.CopyComplete
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.exe
+c:\users\benim\Source\Repos\Youtube\Youtube\obj\Debug\Youtube.pdb
